@@ -1,0 +1,21 @@
+*{
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+}
+body{
+	background: #2b2b2b;
+	background-image: url(5cmpersecond.jpg);
+	background-position: top;
+	background-repeat: repeat-y;
+	background-size: 200%;
+	background-blend-mode: soft-light;
+}
+p{
+  color: White;
+  align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+  font-size: 1.8rem;
+}
